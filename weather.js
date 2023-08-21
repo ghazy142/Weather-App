@@ -53,7 +53,7 @@
         }
     
         //API key
-        const apiKey = 'ff82a42fb16145b0946204114230708';
+        const apiKey = '90b80c8ca8e249df846222518232108';
         const baseUrl = 'https://api.weatherapi.com/v1/forecast.json';
     
         // Function to fetch the default weather for London
